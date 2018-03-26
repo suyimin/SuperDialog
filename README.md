@@ -1,14 +1,6 @@
 # SuperDialog
 一个类文件不到600行纯代码实现多功能Dialog，list、image、input输入框、Progress自定义View和可变参数button数量
 
-Github:https://github.com/hnsugar/
-
-http://itgowo.com
-
-QQ:1264957104
-
-Email:lujianchao@itgowo.com
-
 ### 为什么写纯代码Dialog？
 
 我比较追求少而精，同时不想引入太多东西，添加容易，删除是很让人郁闷的，例如
